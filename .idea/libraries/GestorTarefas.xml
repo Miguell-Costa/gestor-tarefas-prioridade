@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GestorTarefas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GestorTarefas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
